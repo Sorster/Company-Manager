@@ -1,0 +1,18 @@
+E:\Важная штукенция\ООП\Online store\Input\bin\Debug\netstandard2.0\Inputs.deps.json
+E:\Важная штукенция\ООП\Online store\Input\bin\Debug\netstandard2.0\Inputs.dll
+E:\Важная штукенция\ООП\Online store\Input\bin\Debug\netstandard2.0\Inputs.pdb
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Inputs.csprojAssemblyReference.cache
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Inputs.AssemblyInfoInputs.cache
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Inputs.AssemblyInfo.cs
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Inputs.csproj.CoreCompileInputs.cache
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Inputs.dll
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Inputs.pdb
+E:\Курсы\FamilyTreeManager\Input\bin\Debug\netstandard2.0\Inputs.deps.json
+E:\Курсы\FamilyTreeManager\Input\bin\Debug\netstandard2.0\Inputs.dll
+E:\Курсы\FamilyTreeManager\Input\bin\Debug\netstandard2.0\Inputs.pdb
+E:\Курсы\FamilyTreeManager\Input\obj\Debug\netstandard2.0\Inputs.csprojAssemblyReference.cache
+E:\Курсы\FamilyTreeManager\Input\obj\Debug\netstandard2.0\Inputs.AssemblyInfoInputs.cache
+E:\Курсы\FamilyTreeManager\Input\obj\Debug\netstandard2.0\Inputs.AssemblyInfo.cs
+E:\Курсы\FamilyTreeManager\Input\obj\Debug\netstandard2.0\Inputs.csproj.CoreCompileInputs.cache
+E:\Курсы\FamilyTreeManager\Input\obj\Debug\netstandard2.0\Inputs.dll
+E:\Курсы\FamilyTreeManager\Input\obj\Debug\netstandard2.0\Inputs.pdb

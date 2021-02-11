@@ -1,0 +1,9 @@
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Input.AssemblyInfoInputs.cache
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Input.AssemblyInfo.cs
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Input.csproj.CoreCompileInputs.cache
+E:\Важная штукенция\ООП\Online store\Input\bin\Debug\netstandard2.0\Input.deps.json
+E:\Важная штукенция\ООП\Online store\Input\bin\Debug\netstandard2.0\Input.dll
+E:\Важная штукенция\ООП\Online store\Input\bin\Debug\netstandard2.0\Input.pdb
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Input.dll
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Input.pdb
+E:\Важная штукенция\ООП\Online store\Input\obj\Debug\netstandard2.0\Input.csprojAssemblyReference.cache
